@@ -10,6 +10,14 @@
       "expires": "2026-12-31",
       "active": true,
       "notes": "self license"
+    },
+        {
+      "guid": "7E2105734267BF5E775113B28A134653FA1BAD47D7B834518D9982181CC84965",
+      "user": "Mohammed Lotfy1",
+      "issued": "2025-11-30",
+      "expires": "2026-12-31",
+      "active": true,
+      "notes": "self license"
     }
   ]
 }
