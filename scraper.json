@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "kill_switch": false,           // Global disable switch
-  "grace_period_hours": 48,       // Hours allowed offline
+  "kill_switch": false,
+  "grace_period_hours": 48,
   "licenses": [
     {
       "guid": "7E2105734267BF5E775113B28A134653FA1BAD47D7B834518D9982181CC84964",
       "user": "Mohammed Lotfy",
       "issued": "2025-11-30",
-      "expires": "2026-12-31",    // Optional expiration date
-      "active": true,             // Set false to revoke
+      "expires": "2026-12-31",
+      "active": true,
       "notes": "self license"
     }
   ]
