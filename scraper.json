@@ -1,0 +1,6 @@
+{
+  "disabled": false,
+  "license": [
+    { "device_id": "12345-ABCDE", "license_key": "XYZ-98765-ABCDE-12345" }
+  ]
+}
