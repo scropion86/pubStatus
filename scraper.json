@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "kill_switch": true,
+  "kill_switch": false,
   "grace_period_hours": 48,
   "licenses": [
     {
