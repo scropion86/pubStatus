@@ -1,6 +1,15 @@
 {
-  "disabled": false,
-  "license": [
-    { "device_id": "12345-ABCDE", "license_key": "XYZ-98765-ABCDE-12345" }
+  "version": "1.0",
+  "kill_switch": false,           // Global disable switch
+  "grace_period_hours": 48,       // Hours allowed offline
+  "licenses": [
+    {
+      "guid": "7E2105734267BF5E775113B28A134653FA1BAD47D7B834518D9982181CC84964",
+      "user": "Mohammed Lotfy",
+      "issued": "2025-11-30",
+      "expires": "2026-12-31",    // Optional expiration date
+      "active": true,             // Set false to revoke
+      "notes": "self license"
+    }
   ]
 }
